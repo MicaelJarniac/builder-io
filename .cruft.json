@@ -11,7 +11,7 @@
       "project_name": "Builder.io",
       "project_slug": "builder_io",
       "project_distribution_name": "builder-io",
-      "project_short_description": "Builder.io Unofficial Python SDK",
+      "project_short_description": "Builder.io Unofficial Python SDK.",
       "version": "0.0.0",
       "main_branch": "main",
       "shields_url": "https://img.shields.io",

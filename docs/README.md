@@ -75,7 +75,7 @@
 <!---->
 
 # Builder.io
-Builder.io Unofficial Python SDK
+Builder.io Unofficial Python SDK.
 
 [Read the Docs][docs]
 

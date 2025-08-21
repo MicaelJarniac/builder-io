@@ -1,7 +1,7 @@
 [project]
 name = "builder-io"
 version = "0.0.0"
-description = "Builder.io Unofficial Python SDK"
+description = "Builder.io Unofficial Python SDK."
 authors = [
   {name = "Micael Jarniac", email = "micael@jarniac.dev"},
 ]
@@ -18,7 +18,7 @@ classifiers = [
   "Programming Language :: Python :: 3",
 ]
 
-requires-python = ">=3.9"  # py_ver
+requires-python = ">=3.13"  # py_ver
 dependencies = [
     "loguru>=0.7.3",
 ]
